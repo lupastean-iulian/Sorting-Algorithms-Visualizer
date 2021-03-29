@@ -1,0 +1,7 @@
+# Fisierele ignorate
+
+bin/
+.vs/
+obj/
+*.sln
+
